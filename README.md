@@ -18,7 +18,8 @@
 </div>
   ---
 
-### :woman_technologist: About Me :
+### :woman_technologist:
+### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring, learning, and growing in Machine learning, and Data analytics.
@@ -28,7 +29,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench:
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -44,7 +46,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire:
+### My Stats :
 <!--
 **pooja-thalur/pooja-thalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
