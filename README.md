@@ -16,6 +16,7 @@
 <div align="center">
   <img src="https://cdn.dribbble.com/userupload/11734153/file/original-70fecdf60151789f0fc627aa0e00adb4.jpg" width="600" height="300"/>
 </div>
+
   ---
 
 ### :woman_technologist:
@@ -24,7 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring, learning, and growing in Machine learning, and Data analytics.
 - :zap: I solve problems on Leetcode, explore new tech and read tech articles in my free time.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pooja Thalur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojathalur/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pooja Thalur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojathalur/)
 
   
   ---
