@@ -1,7 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
-</div>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/poojathalur/">
@@ -13,6 +12,7 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=pooja-thalur&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **pooja-thalur/pooja-thalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
