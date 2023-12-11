@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-</div>
 <img src="https://komarev.com/ghpvc/?username=pooja-thalur&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -18,7 +17,7 @@
   <img src="https://cdn.dribbble.com/userupload/11734153/file/original-70fecdf60151789f0fc627aa0e00adb4.jpg" width="600" height="300"/>
   ---
 
-### :woman_technologist: About Me :
+### :woman_technologist : About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring, learning, and growing in Machine learning, and Data analytics.
@@ -28,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   
   ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench : Languages and Tools :
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -44,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire : My Stats :
 <!--
 **pooja-thalur/pooja-thalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
