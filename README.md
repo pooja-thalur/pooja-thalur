@@ -25,7 +25,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :seedling: Exploring, learning, and growing in Machine learning, and Data analytics.
 - :zap: I solve problems on Leetcode, explore new tech and read tech articles in my free time.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Pooja Thalur-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojathalur/)
+- :mailbox:How to reach me: 
+  <a href="https://www.linkedin.com/in/poojathalur/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
   
   ---
@@ -49,6 +52,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire:
 ### My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pooja-thalur&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **pooja-thalur/pooja-thalur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
