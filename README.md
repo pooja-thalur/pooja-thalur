@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for visting my profile!! 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
 
@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=pooja-thalur&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?username=pooja-thalur&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 <div align="center">
@@ -22,9 +22,9 @@
 ### :woman_technologist:
 ### About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring, learning, and growing in Machine learning, and Data analytics.
-- :zap: I solve problems on Leetcode, explore new tech and read tech articles in my free time.
+- :telescope: I’m a Software Engineer, contributing to frontend and backend while building web applications.
+- :seedling: Exploring, learning, and growing in Backend development, Machine learning, and Data analytics.
+- :zap: I solve problems on Leetcode, explore new tech and watch movies during my free time.
 - Reach me on - poojathalur@gmail.com and
   <a href="https://www.linkedin.com/in/poojathalur/">
     <img src="https://img.shields.io/badge/Pooja-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
