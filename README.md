@@ -1,4 +1,5 @@
 ### Hello! Thanks for visting my profile!! 👋
+### A Software Engineer | Grad Student at ASU | Ex-Software Engineer at UrbanPro.com 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif" width="150"/>
 
