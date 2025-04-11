@@ -1,4 +1,4 @@
-### Hello! Thanks for visting my profile!! 👋
+<p align="center"> <b>Hello! Thanks for visting my profile!! 👋</b></p>
 <p align="center"> <b>A Software Engineer | Grad Student at ASU | Ex-Software Engineer at UrbanPro.com </b></p>
 
 <div id="header" align="center">
